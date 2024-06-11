@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: auto;
+    padding: 2em;
+}
+
+h1{
+    color: white;
+}
+
+.row{
+    padding: 1rem;
+}
+
+.barra{
+    background-color: #ff266e;
+}
+
+.cajaBorde{
+    border-style: solid;
+    border-color: #ff266e;
+    height: 30vh;
+}
+
+.cajaBorde1 {
+    border: 1px #ff266e solid;
+    height: 40vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.cajaBorde2 {
+    border: 1px #ff266e solid;
+    height: 40vh;
+    position: relative;
+    margin-left: auto;
+    overflow: hidden;
+}
+
+.cajaBordeProyectos {
+    border: 1px #ff266e solid;
+    height: 30vh;
+    position: relative;
+}
+
+.barra{
+    background-color: #ff266e;
+    height: 8vh;
+    position: relative;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
